@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    tools:context="pl.marcinwatroba.pammovie.MainActivity">
+    
+    <VideoView
+        android:id="@+id/videoView"
+        android:layout_width="500dp"
+        android:layout_height="375dp"
+        android:layout_marginRight="28dp"/>
+
+    <com.ohoussein.playpause.PlayPauseView
+        android:id="@+id/playPauseView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:clickable="true"
+        android:foreground="?android:selectableItemBackground"
+        app:fill_color="#e1e1e1"
+        app:pause_bg="#00a2ed"
+        app:play_bg="#001eff" />
+
+</LinearLayout>

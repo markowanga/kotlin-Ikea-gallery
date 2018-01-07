@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PamMovie</string>
+    <string name="glass_cost">29,99 zł</string>
+    <string name="glass_descriotion">Kieliszki idealne, każde wino smakuje z nich wyśmienicie. Można myć w zmywarce. Cena dotyczy 3 sztuk.</string>
+    <string name="plate_cost">9,99 zł</string>
+    <string name="plate_description">To jeden z najbardziej rozpoznawanych produktów IKEA w kuchni. Szanowany przez studentów za nienagrzewanie się w mikrofalówce. Rozmiar śniadaniowy (25cm), dostępny w 3 kolorach - białym, ziolnym oracz błękitnym.</string>
+</resources>
